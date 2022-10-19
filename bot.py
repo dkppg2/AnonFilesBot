@@ -31,9 +31,9 @@ BOT_TOKEN = Config.BOT_TOKEN
    
 bot = Client(
     "AnonFilesBot",
-    api_id=APP_ID,
-    api_hash=API_HASH,
-    bot_token=BOT_TOKEN)
+    api_id=10247139,
+    api_hash="96b46175824223a33737657ab943fd6a",
+    bot_token="5493827996:AAFgPTdSVUgdQtBiwtxuKaH5nvy9KYFlh00")
 
 
 START_TEXT = """
