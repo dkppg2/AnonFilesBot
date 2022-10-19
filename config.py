@@ -2,7 +2,7 @@ import os
 
 
 class Config(object):
-    BOT_TOKEN = "5682981728:AAEbr-VF2ZMwlmyoe-pFlsPBZE4XYmMY5E8"
+    BOT_TOKEN = "5493827996:AAFgPTdSVUgdQtBiwtxuKaH5nvy9KYFlh00"
 
     APP_ID = 10247139
 
